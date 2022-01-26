@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './webRtc/index.tsx';
+import App from './webRtc/index';
 
 ReactDOM.render(
   <React.StrictMode>
