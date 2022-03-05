@@ -15,12 +15,6 @@
     "lib": ["es6", "es7", "dom"],
     "baseUrl": "./src/",
     "allowSyntheticDefaultImports": true,
-    "paths": {
-      "@/common/*": ["./common/*"],
-      "@/app/*": ["./app/*"],
-      "@/manage/*": ["./manage/*"],
-      "@/live/*": ["./live/*"]
-    }
   },
   "exclude": ["build", "node_modules"]
 }

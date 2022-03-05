@@ -1,4 +1,3 @@
-//虚拟滚动
 import React from 'react';
 import './index.css';
 
